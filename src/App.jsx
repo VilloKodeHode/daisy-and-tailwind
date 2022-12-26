@@ -18,11 +18,11 @@ function App() {
       <div
         className="hero min-h-screen bg-cover bg-"
         style={{
-          backgroundImage: `url("https://images.unsplash.com/photo-1518005020951-eccb494ad742?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=755&q=80")`,
+          backgroundImage: `url("https://external-preview.redd.it/pgVTvLXtFRV-Af_aEr0ZyO-npj5XRqy5u_941LGSheI.jpg?width=640&crop=smart&auto=webp&s=2a0c40ec4cf7221f4d0ed2225a8b2cb90d003969")`,
           // backgroundImage: `url(src/assets/Buffdude.jpg)`,
         }}
       >
-        <div className="hero-overlay bg-opacity-60"></div>
+        <div className=" hero-overlay bg-opacity-60"></div>
         <div className="hero-content text-center text-neutral-content">
           <div className="max-w-md">
             <h1 className="mb-10 text-8xl font-bold text-info">

@@ -1,7 +1,3 @@
-//////////////////////////////////////////////////////////////*/
-/ Extended Bmi calculator /;
-//////////////////////////////////////////////////////////////*/
-
 const inputHeight = document.getElementById("inputHeight");
 const inputWeight = document.getElementById("inputWeight");
 const bmiButton = document.getElementById("bmiButton");
